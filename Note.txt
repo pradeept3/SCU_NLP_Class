@@ -1,0 +1,18 @@
+To install jupyter-ai
+------------------------
+in the conda prompt write below command:
+
+(jupyter-ai) C:\Users\ptripathy>pip install "jupyter-ai[all]"
+
+To check the ollama versions:
+----------------------------------
+1. cmd - > ollama list
+
+
+To Run llama 3.2
+--------------------------
+1. write the command -> ollama run llama3.2 
+2. In a separate anacoda command prompt write
+          . conda activate jupyter-ai
+          . jupyter lab
+
